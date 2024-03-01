@@ -29,4 +29,4 @@ abordando sua temática para estruturar uma web page jogável com conceitos e fu
 ## ⚖️ Licença
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Projeto online: https://felipegbpr.github.io/js-yugioh-jokenpo-edition/
+### 🔗 Projeto online: https://felipegbpr.github.io/js-yugioh-jokenpo-edition/
